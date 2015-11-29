@@ -1,8 +1,0 @@
-uuid: f22bcc5d-1262-4cc4-9242-66ece26390c5
-langcode: da
-status: true
-dependencies: {  }
-id: comment
-label: Standardkommentarer
-target_entity_type_id: node
-description: 'Tillader kommentarer på indhold'
