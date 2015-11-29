@@ -1,0 +1,10 @@
+uuid: c904e304-02e2-4db1-a400-f29d4de2ceae
+langcode: da
+status: true
+dependencies: {  }
+id: feedback
+label: 'Website feedback'
+recipients:
+  - webmaster@drupaldanmark.dk
+reply: ''
+weight: 0

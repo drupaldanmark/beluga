@@ -1,0 +1,11 @@
+uuid: 6358d409-c417-4df7-be00-cb8cbfc01550
+langcode: da
+status: true
+dependencies:
+  module:
+    - comment
+id: comment_save_action
+label: 'Gem kommentar'
+type: comment
+plugin: comment_save_action
+configuration: {  }

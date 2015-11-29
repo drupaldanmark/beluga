@@ -1,0 +1,9 @@
+uuid: 9c624c78-ae8b-4b21-ab57-877e49a61f4c
+langcode: da
+status: true
+dependencies: {  }
+name: Tags
+vid: tags
+description: 'Brug tags til at gruppere artikler om samme emne.'
+hierarchy: 0
+weight: 0

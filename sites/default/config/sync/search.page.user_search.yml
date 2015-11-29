@@ -1,0 +1,12 @@
+uuid: 155f1bed-bb65-4074-ba37-558239cb7ae2
+langcode: da
+status: true
+dependencies:
+  module:
+    - user
+id: user_search
+label: Brugere
+path: user
+weight: 0
+plugin: user_search
+configuration: {  }

@@ -1,0 +1,10 @@
+uuid: b80a77d4-33df-42b3-8a08-08b9c2351db6
+langcode: da
+status: false
+dependencies:
+  module:
+    - node
+id: node.search_index
+label: Søgeindex
+targetEntityType: node
+cache: true

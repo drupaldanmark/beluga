@@ -1,0 +1,12 @@
+uuid: 63cf63aa-2cec-400d-bc00-c52903c3fa16
+name: 'Drupal Danmark'
+mail: webmaster@drupaldanmark.dk
+slogan: ''
+page:
+  403: ''
+  404: ''
+  front: /node
+admin_compact_mode: false
+weight_select_max: 100
+langcode: da
+default_langcode: da
