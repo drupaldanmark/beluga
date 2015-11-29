@@ -1,7 +1,15 @@
 uuid: 3d09a855-53bb-4be2-b82a-42aa88321acf
 langcode: da
 status: true
-dependencies: {  }
+dependencies:
+  module:
+    - menu_ui
+third_party_settings:
+  menu_ui:
+    available_menus:
+      - main
+      - footer
+    parent: 'main:'
 name: 'Simpel side'
 type: page
 description: 'Brug <em>simple sider</em> til dit statiske indhold, som f.eks. en "om os"-side.'
