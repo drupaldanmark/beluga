@@ -1,0 +1,16 @@
+name: Narhval
+type: theme
+description: Drupal 8 theme for Drupal Danmark
+package: Other
+core: 8.x
+libraries:
+  - narhval/global-styling
+
+base theme: stable
+
+regions:
+  header: Header
+  promoted: Promoted
+  content: Content
+  sidebar: Sidebar
+  footer: Footer
