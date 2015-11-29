@@ -1,11 +1,11 @@
 uuid: 63cf63aa-2cec-400d-bc00-c52903c3fa16
 name: 'Drupal Danmark'
 mail: webmaster@drupaldanmark.dk
-slogan: ''
+slogan: 'Forening for danske Drupal-interesserede'
 page:
   403: ''
   404: ''
-  front: /node
+  front: /node/1
 admin_compact_mode: false
 weight_select_max: 100
 langcode: da
